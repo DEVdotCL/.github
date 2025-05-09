@@ -40,7 +40,7 @@ Cada solución se diseña desde cero, considerando la realidad operativa y tecno
 ## 📫 Contacto
 
 ¿Tienes una necesidad tecnológica específica en tu empresa?  
-Escríbenos a: **contacto@dev.cl**  
+Escríbenos a: **carlos [@] dev.cl**  
 O visita nuestro sitio web: [https://www.dev.cl](https://www.dev.cl)
 
 ---
